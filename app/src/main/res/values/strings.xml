@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="hint_enter_value">Enter value to convert</string>
+    <string name="convert">Convert</string>
+    <string name="result_placeholder">Result will appear here (tap to copy)</string>
+
+    <string name="add_unit">Add Unit</string>
+    <string name="history">History</string>
+    <string name="swap">Swap</string>
+
+    <string name="add_unit_instructions">Add a custom linear unit. Enter a display name (e.g. "MyUnit (MU)") and its factor relative to the category base unit.</string>
+    <string name="unit_name_hint">Unit display name (e.g. "Custom (CU)")</string>
+    <string name="unit_factor_hint">Factor to base unit (numeric)</string>
+
+    <string-array name="categories">
+        <item>Length</item>
+        <item>Mass</item>
+        <item>Temperature</item>
+        <item>Volume</item>
+        <item>Speed</item>
+        <item>Data Size</item>
+        <item>Area</item>
+        <item>Time</item>
+        <item>Pressure</item>
+    </string-array>
+
+    <string name="please_enter_value">Please enter a value to convert</string>
+    <string name="invalid_number">Invalid number</string>
+    <string name="unit_added">Unit added</string>
+    <string name="copied_result">Result copied to clipboard</string>
+    <string name="clear_history">Clear History</string>
+    <string name="close">Close</string>
+    <string name="empty_history">No history yet</string>
+</resources>
